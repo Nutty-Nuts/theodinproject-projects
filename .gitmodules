@@ -1,0 +1,3 @@
+[submodule "mini-message-board"]
+	path = mini-message-board
+	url = https://github.com/Nutty-Nuts/theodinproject-projects.git
